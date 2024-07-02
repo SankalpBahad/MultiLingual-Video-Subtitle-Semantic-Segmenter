@@ -1,4 +1,4 @@
-# Multilingual-Semantic-Chunking-of-Video-Subtitles
+# MultiLingual-Video-Subtitle-Semantic-Segmenter
 
 ## Task Description
 
